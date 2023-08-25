@@ -1,7 +1,3 @@
-## Bitcoin Nakamoto
-an alternative distribution of Bitcoin
-
-
 ### bitcoin-nakamoto/bitcoin https://github.com/bitcoin-nakamoto/bitcoin
 An archive of https://github.com/bitcoin/bitcoin
 
