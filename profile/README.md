@@ -1,5 +1,6 @@
-## Hi there 👋
-test
+## Bitcoin Nakamoto
+an alternative distribution of Bitcoin
+
 <!--
 
 **Here are some ideas to get you started:**
